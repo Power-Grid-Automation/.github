@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 # ⚡ Automation of Simulation Testcase Executions & Report Generation
 
 **Empowering Power System Engineers to focus on core modeling, not mundane tasks.**
@@ -25,4 +21,3 @@ Designed specifically for the power systems engineering domain, integrating with
 
 ### 🚀 Why it matters?
 By removing the repetitive click-work required to run test cases and format documents, this automation pipeline dramatically reduces project turnaround times, lowers costs, and enables consultants to deliver higher-quality analytical insights.
--->

@@ -1,4 +1,4 @@
-# ⚡ Automation of Simulation Testcase Executions & Report Generation
+# ⚡ Power-Grid - Automations for Modelling, Auto-Tuning, Compliance Studies
 
 **Empowering Power System Engineers to focus on core modeling, not mundane tasks.**
 

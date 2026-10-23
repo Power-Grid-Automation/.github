@@ -1,4 +1,4 @@
-# ⚡ Power-Grid - Automations for Modelling, Auto-Tuning, Compliance Studies
+# ⚡ Power-Grid: Automation of Modeling, Tuning, Compliance Studies with deterministic and agentic AI approaches
 
 **Empowering Power System Engineers to focus on core modeling, not mundane tasks.**
 
@@ -11,13 +11,14 @@ In traditional power system studies, consultants spend countless hours manually 
 Designed specifically for the power systems engineering domain, integrating with industry-standard software:
 * **PSS/E** (Power System Simulator for Engineering)
 * **PSCAD** (Power Systems Computer Aided Design)
-* **ETAP** (Electrical Transient Analyzer Program)
+* **Pandapower** (Network Analyzer)
 
 ### ✨ Key Capabilities
 * **Batch Testcase Execution:** Automate the sequencing and execution of hundreds of contingency, load flow, and transient stability simulation scenarios.
 * **Smart Data Extraction:** Automatically parse and extract critical results, plots, and KPIs directly from raw simulation output files.
 * **Automated Report Generation:** Compile extracted data into consultant-ready formats (Word, Excel, PDF), complete with formatted charts and compliance tables.
 * **Workflow Standardization:** Minimize human error and ensure consistent, repeatable study methodologies across teams.
+* **Agentic AI:** Adding intelligence layer with LLM's including agentic AI frameworks.
 
 ### 🚀 Why it matters?
-By removing the repetitive click-work required to run test cases and format documents, this automation pipeline dramatically reduces project turnaround times, lowers costs, and enables consultants to deliver higher-quality analytical insights.
+By removing the repetitive click-work required to run test cases and format documents, this automation pipeline dramatically reduces project turnaround times, lowers costs, and enables consultants to deliver higher-quality analytical insights leveraging LLM's for add-on intelligence layer.

@@ -1,4 +1,4 @@
-# ⚡ Power-Grid: Automation of Modeling, Tuning, Compliance Studies with deterministic and agentic AI approaches
+# ⚡ Power-Grid: Automations & Agents for Modeling, Tuning, Compliance Studies
 
 **Empowering Power System Engineers to focus on core modeling, not mundane tasks.**
 
